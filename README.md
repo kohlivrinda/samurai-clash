@@ -19,5 +19,6 @@ Player 2:
 - right : right
 - up : jump
 - down : attack
+![Untitled video - Made with Clipchamp (2)](https://user-images.githubusercontent.com/89012268/222562840-dd023cec-e7cb-47b1-821b-8aef078a0915.gif)
 
-![preview](https://user-images.githubusercontent.com/89012268/218853822-4b745ed7-a9ba-4de8-9002-2ff5a544e56a.gif)
+
