@@ -27,6 +27,6 @@ Player 2:
 
 
 
-Assests from:
+Assets from:
 - backdrop: https://brullov.itch.io/oak-woods
 - sprites: https://luizmelo.itch.io/
