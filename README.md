@@ -26,3 +26,7 @@ Player 2:
 ![Untitled video - Made with Clipchamp (2)](https://user-images.githubusercontent.com/89012268/222563263-17d1bda7-6e68-43ae-9ba0-673dcb989164.gif)
 
 
+
+Assests from:
+- backdrop: https://brullov.itch.io/oak-woods
+- sprites: https://luizmelo.itch.io/
